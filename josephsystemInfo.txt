@@ -1,0 +1,24 @@
+
+                User Name: joseph
+                ********************
+                WINDOWS CURRENT VERSION
+                Major Version: 10
+                Minor Version: 0
+                Build Version: 22621
+                Platform Id: 2
+                ********************
+                SYSTEM CACHE INFO
+                MaximumCache: 1048576
+                MinimumCache: 17592186044416
+                Flags: 0
+                ********************
+                INFO ON THREADS AND PROCCESORS
+                Proccesor Name and Clock Speed: AMD Ryzen 7 5800H with Radeon Graphics 3201MHz
+                Number of Cores: 8
+                Processor Architecture: 9
+                Page Size: 4096
+                Proccesors Type: 65536
+                Processors level: 4096
+                Number Of Processors: 16
+                ********************
+                 

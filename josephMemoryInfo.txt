@@ -1,0 +1,9 @@
+PageFaultCount: 10479
+PeakWorkingSetSize: 42237952
+WorkingSetSize: 42237952
+QuotaPeakPagedPoolUsage: 252024
+QuotaPagedPoolUsage: 251848
+QuotaPeakNonPagedPoolUsage: 24648
+QuotaNonPagedPoolUsage: 24472
+PagefileUsage: 536596480
+PeakPagefileUsage: 536596480
